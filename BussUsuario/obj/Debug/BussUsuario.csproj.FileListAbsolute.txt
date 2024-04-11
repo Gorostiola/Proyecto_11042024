@@ -1,0 +1,11 @@
+C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\bin\Debug\BussUsuario.dll
+C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\bin\Debug\BussUsuario.pdb
+C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\bin\Debug\DataUsuario.dll
+C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\bin\Debug\EntityUsuario.dll
+C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\bin\Debug\DataUsuario.pdb
+C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\bin\Debug\EntityUsuario.pdb
+C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\obj\Debug\BussUsuario.csproj.AssemblyReference.cache
+C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\obj\Debug\BussUsuario.csproj.CoreCompileInputs.cache
+C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\obj\Debug\BussUsuario.csproj.CopyComplete
+C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\obj\Debug\BussUsuario.dll
+C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\obj\Debug\BussUsuario.pdb
