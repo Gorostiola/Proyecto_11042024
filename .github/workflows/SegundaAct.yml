@@ -1,0 +1,17 @@
+name: Imprime el contexto de GitHub
+on: 
+  push: 
+    branches: 
+      - Rama-DEV
+jobs: 
+  impime_elcontexto:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Imprime la informacion del repositorio
+        env:
+          REPOSITORY: ${{ github.repository }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          echo "Repository: $REPOSITORY"
+          echo "Event name: $EVENT_NAME"
