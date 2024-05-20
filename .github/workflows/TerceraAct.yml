@@ -12,4 +12,4 @@ jobs:
         env:
           MY_ENV_VARIABLE: ${{ secrets.MY_SECRET }}
         run: |
-        echo "Value of MY_ENV_VARIABLE: $MY_ENV_VARIABLE"
+          echo "Value of MY_ENV_VARIABLE: $MY_ENV_VARIABLE"
