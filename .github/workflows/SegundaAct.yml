@@ -1,10 +1,11 @@
-name: Imprime el contexto de GitHub
+name: Print GitHub Context 
+
 on: 
   push: 
-    branches: 
-      - Rama-DEV
-jobs: 
-  impime_elcontexto:
+    branches:
+    - Rama-DEV
+jobs:
+  print_context:
     runs-on: ubuntu-latest
 
     steps:
