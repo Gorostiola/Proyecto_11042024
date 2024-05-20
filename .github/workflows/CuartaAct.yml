@@ -1,0 +1,17 @@
+#EJEMPLO DE COMO ACCEDER A UNA SECRET
+
+name: Ejemplo de Acceso a Secret
+on: 
+  push:
+    branches:
+      - Rama-DEV
+jobs:
+  ejemplo_acceso_secret:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Imprimir el valor de la secret
+        env:
+          SECRET_VALUE: ${{ secrets.MY_SECRET }}
+        run: |
+          echo:"El valor de MY_SECRET es: $SECRET_VALUE"
