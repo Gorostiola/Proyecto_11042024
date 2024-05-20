@@ -13,7 +13,7 @@ jobs:
         env:
           REPOSITORY: ${{ github.repository }}
           EVENT_NAME: ${{ github.event_name }}
-          RUN-NAME: ${{ run-name }}	
+          RUN-NAME: ${{ github.run-name }}	
         run: |
           echo "Repository: $REPOSITORY"
           echo "Event name: $EVENT_NAME"
