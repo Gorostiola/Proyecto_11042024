@@ -1,3 +1,5 @@
+#USO DEL CONTEXTO: env
+
 name: Variable de entorno de impresion
 on: 
   push:
