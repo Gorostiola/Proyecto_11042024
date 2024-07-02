@@ -27,6 +27,9 @@ namespace EntityUsuario
         [DisplayName("EDAD")]
         public int edad { get; set; }
 
+        [DisplayName("PESO")]
+        public int peso { get; set; }
+
        
 
 
