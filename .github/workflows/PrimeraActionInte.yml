@@ -3,7 +3,7 @@ name: Integracion y Versionado
 on:
   pull_request:
     branches:
-      - QA
+      - Rama-QA
 
 jobs:
   build-and-test:
