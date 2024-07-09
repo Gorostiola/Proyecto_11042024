@@ -8,5 +8,7 @@ namespace EntityUsuarios
 {
     public class Class1
     {
+        //INC1234
+        String Nombre;
     }
 }
