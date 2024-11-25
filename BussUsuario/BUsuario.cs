@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Diagnostics;
+using System.Diagnostics; //Modificacion 24 Noviembre 2024
 using System.Linq;
 using System.Net.Http;
-using System.Security.Policy;
+using System.Security.Policy; //Modificacion 24 Noviembre 2024 
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading.Tasks; //Modificacion 24 Noviembre 2024
 using DataUsuario;
 using EntityUsuario;
 
