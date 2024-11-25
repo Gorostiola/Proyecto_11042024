@@ -9,3 +9,14 @@ C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\obj\Debug\BussUsuari
 C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\obj\Debug\BussUsuario.csproj.CopyComplete
 C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\obj\Debug\BussUsuario.dll
 C:\Users\goros\source\repos\PracticandoPersonas\BussUsuario\obj\Debug\BussUsuario.pdb
+C:\Users\goros\Documents\Escenario\Proyecto_11042024\BussUsuario\bin\Debug\BussUsuario.dll
+C:\Users\goros\Documents\Escenario\Proyecto_11042024\BussUsuario\bin\Debug\BussUsuario.pdb
+C:\Users\goros\Documents\Escenario\Proyecto_11042024\BussUsuario\bin\Debug\DataUsuario.dll
+C:\Users\goros\Documents\Escenario\Proyecto_11042024\BussUsuario\bin\Debug\EntityUsuario.dll
+C:\Users\goros\Documents\Escenario\Proyecto_11042024\BussUsuario\bin\Debug\DataUsuario.pdb
+C:\Users\goros\Documents\Escenario\Proyecto_11042024\BussUsuario\bin\Debug\EntityUsuario.pdb
+C:\Users\goros\Documents\Escenario\Proyecto_11042024\BussUsuario\obj\Debug\BussUsuario.csprojAssemblyReference.cache
+C:\Users\goros\Documents\Escenario\Proyecto_11042024\BussUsuario\obj\Debug\BussUsuario.csproj.CoreCompileInputs.cache
+C:\Users\goros\Documents\Escenario\Proyecto_11042024\BussUsuario\obj\Debug\BussUsuario.csproj.CopyComplete
+C:\Users\goros\Documents\Escenario\Proyecto_11042024\BussUsuario\obj\Debug\BussUsuario.dll
+C:\Users\goros\Documents\Escenario\Proyecto_11042024\BussUsuario\obj\Debug\BussUsuario.pdb
